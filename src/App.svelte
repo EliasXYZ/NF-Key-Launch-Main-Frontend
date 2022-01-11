@@ -17,9 +17,9 @@
   /***********************************/
   // Customise the app by changing the following variables.
   const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const DESCRTIPTION = "NF (Non-Fungible) Key is a collection of 444 randomly generated keycap NFTs in the Solana Blockchain.";
+  const HEADER_TITLE = "nfkey.club";
+  const HEADER_LINK = "https://nfkey.club/";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
