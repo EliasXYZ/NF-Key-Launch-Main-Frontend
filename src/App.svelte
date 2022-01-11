@@ -16,7 +16,7 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
+  const TITLE = "NF Key";
   const DESCRTIPTION = "NF (Non-Fungible) Key is a collection of 444 randomly generated keycap NFTs in the Solana Blockchain.";
   const HEADER_TITLE = "nfkey.club";
   const HEADER_LINK = "https://nfkey.club/";
