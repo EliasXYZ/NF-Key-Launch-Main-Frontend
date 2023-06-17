@@ -4,10 +4,6 @@ This is a barebones implementation of Candy Machine V2 frontend, intended for us
 
 The app was built using Svelte + Vite and uses TailwindCSS for styles.
 
-An example site built using this frontend: https://lanablocks.xyz
-
-![demo gif](https://github.com/alvinsga/candy-machine-v2/blob/master/public/demo.gif "Demo Gif")
-
 
 ## One-click deploy with Vercel
 
